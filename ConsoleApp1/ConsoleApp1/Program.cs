@@ -15,7 +15,6 @@ namespace ConsoleApp1
             Console.WriteLine("Чем Вы занимаетесь");
             string work = Console.ReadLine();
             Console.WriteLine($"Вас зовут {name}, Вам {age} лет, Ваш знак зодиака {zodiak} и Вы {work}");
-
         }
     }
 }
